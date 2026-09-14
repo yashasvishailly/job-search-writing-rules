@@ -49,6 +49,12 @@ The half that stays paid is the hard half. The nightly triage of deciding which 
 
 That's what [The One Job](https://yashasvishailly.com/theone-jobsearch/) is for. It's the system I built over seven months of hit and trial to find roles before they're posted and decide which ones to spend a week on. It's paid. This skill is free and it stays free.
 
+## Contributing
+
+Open an issue or a pull request. The most useful thing you can add is a rule you learned the hard way: something you stopped writing, and what changed once you stopped.
+
+Anything merged here also goes into The One Job, the paid system. Your rule reaches the people who bought that as well as everyone reading this repo.
+
 ## Who wrote it
 
 Yashasvi Shailly. Operator, eight years across founder's office, chief of staff and revenue operations roles at startups in India, the UK, the US and Canada. I build things at [The One Labs](https://yashasvishailly.com).
