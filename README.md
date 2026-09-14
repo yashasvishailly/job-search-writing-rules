@@ -4,6 +4,8 @@ A free Claude skill. It's a deny list for anything you send while job hunting: c
 
 Every job search guide tells you what to say. This one tells you what to delete.
 
+These rules are the writing half of [The One Job](https://yashasvishailly.com/theone-jobsearch/), a paid system for finding senior roles before they get posted. The writing half is free.
+
 ## Why this exists
 
 I've sent a lot of cold messages to founders and hiring managers who had no reason to answer me. Enough of them replied that I went back and worked out what the replying ones had in common.

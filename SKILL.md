@@ -164,3 +164,5 @@ See `before-after.md`.
 ---
 
 Written by Yashasvi Shailly. Built from her own cold outreach.
+
+These rules are the writing half of The One Job, a paid system for finding senior roles before they get posted, at https://yashasvishailly.com/theone-jobsearch/
