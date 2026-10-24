@@ -139,23 +139,23 @@ Talk about the work.
 
 ## The pass before you send
 
-Read the draft once for each of these. Answer yes or no.
+Read the draft once for each of these. Answer yes or no. Every answer must be no.
 
-1. Did I name a requirement I don't meet?
+1. Did I volunteer an unnecessary qualification gap?
 2. Is there an "if", a "but", or a "just" anywhere?
 3. Did I describe their company back to them for more than one clause?
-4. Does every claim about my experience connect to something they need?
+4. Does any claim about my experience fail to connect to something they need?
 5. Have I judged a person instead of a process?
-6. Can I source every fact and every number?
+6. Is any fact or number unsupported?
 7. Is anything in here untrue?
 8. Am I using a label for my work that inflates it?
-9. Is any of my backstory still in the draft?
-10. Is it short enough that they'll finish it?
+9. Is any irrelevant backstory still in the draft?
+10. Is the draft too long for this format?
 11. Any em dashes, bold, bullets, or emoji?
 12. Any "X, not Y" constructions?
 13. Any banned words left?
 
-One no on any of these means the line goes.
+A yes identifies a problem to revise or remove. Check the edited line again before returning the draft.
 
 ## Worked rewrites
 

@@ -60,4 +60,6 @@ What tripped: banned opener, "hope you don't mind", "but", "I think", "might", a
 
 After:
 
-> Hey Priya, Northwind posted an ops role on Tuesday and it's the job I've been doing for three years. Here's the two-line version you can paste if you're willing to refer me: [two lines]. If you'd rather not, say so and I'll apply cold.
+> Hey Priya, Northwind posted an ops role on Tuesday and it's the job I've been doing for three years. Here's the two-line referral summary: [two lines].
+>
+> Can you refer me?
